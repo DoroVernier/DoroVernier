@@ -1,6 +1,11 @@
-### Hi there 👋
+### Hi, I'm Doro
 
 I'm based in Berlin and I'm currently learning to code @ [Neue Fische](https://www.neuefische.de/).
+
+Right now, I'm a "Jack of all Trades, Master of None", but ask me again in three month time 😉.
+
+![Alt Jack of all Trades](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
 
 <!--
 **DoroVernier/DoroVernier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
