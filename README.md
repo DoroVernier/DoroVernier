@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm based in Berlin and I'm currently learning to code https://www.neuefische.de.
+I'm based in Berlin and I'm currently learning to code (https://www.neuefische.de).
 
 <!--
 **DoroVernier/DoroVernier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
