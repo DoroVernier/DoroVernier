@@ -4,7 +4,7 @@ I'm based in Berlin and I'm currently learning to code @ [Neue Fische](https://w
 
 Right now, I'm a "Jack of all Trades, Master of None", but ask me again in three month time 😉.
 
-![Alt Jack of all Trades](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Jack of all Trades](https://c.tenor.com/WVJWol10qWgAAAAC/vata.gif)
 
 
 <!--
