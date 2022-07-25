@@ -6,6 +6,18 @@ Right now, I'm a "Jack of all Trades, Master of None", but ask me again in three
 
 ![Alt Jack of all Trades](https://c.tenor.com/WVJWol10qWgAAAAC/vata.gif)
 
+<details>
+  <summary>What I like</summary>
+  
+  * 📖reading
+  * 🥘cooking (and eating)
+  * 🆕trying out new things
+  * 🫂my friends
+  * 🐈 🐈‍⬛my cats 
+  * 𝌣 finding solutions
+  * 👩🏼‍💻... and I'm pretty sure, I'll like coding!
+  
+  </details>
 
 <!--
 **DoroVernier/DoroVernier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
