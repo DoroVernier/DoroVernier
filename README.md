@@ -11,6 +11,7 @@ Right now, I'm a "Jack of all Trades, Master of None", but ask me again in three
   
   * 📖reading
   * 🥘cooking (and eating)
+  * ☯ Qi gong
   * 🆕trying out new things
   * 🫂my friends
   * 🐈 🐈‍⬛my cats 
