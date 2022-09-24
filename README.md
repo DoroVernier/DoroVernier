@@ -2,22 +2,13 @@
 
 I'm based in Berlin and I'm currently learning to code @ [Neue Fische](https://www.neuefische.de/).
 
-Right now, I'm a "Jack of all Trades, Master of None", but ask me again in three month time 😉.
+<a href="mailto:doro.vernier@outlook.de?subject=[GitHub]%20Source%20Han%20Sans"><img align="right" src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/envelope-square-512.png" height="30" width="30"/></a>
+<a href="https://linkedin.com/in/d-vernier/" target="blank"><img align="right" src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/linkedin-square-512.png" height="30" width="30"/></a>
 
-![Alt Jack of all Trades](https://c.tenor.com/WVJWol10qWgAAAAC/vata.gif)
+[![DoroVernier's github stats](https://github-readme-stats.vercel.app/api?username=DoroVernier&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoroVernier&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
-<details>
-  <summary>What I like</summary>
-  
-  * 📖reading
-  * 🥘cooking (and eating)
-  * ☯ Qi gong
-  * 🆕trying out new things
-  * 🫂my friends
-  * 🐈 🐈‍⬛my cats 
-  * 𝌣 finding solutions
-  * 👩🏼‍💻... and I'm pretty sure, I'll like coding!
-  
+
+[![My Skills](https://skills.thijs.gg/icons?i=js,react,nextjs,mongodb,nodejs,html,css,figma,)](https://skills.thijs.gg)
   </details>
 
 <!--
