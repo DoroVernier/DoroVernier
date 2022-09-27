@@ -1,6 +1,6 @@
 ### Hi, I'm Doro
 
-I'm based in Berlin and I'm currently learning to code @ [Neue Fische](https://www.neuefische.de/).
+I'm based in Berlin and I'm currently learning to code @ [neuefische](https://www.neuefische.de/).
 
 <a href="mailto:doro.vernier@outlook.de?subject=[GitHub]%20Source%20Han%20Sans"><img align="right" src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/envelope-square-512.png" height="30" width="30"/></a>
 <a href="https://linkedin.com/in/d-vernier/" target="blank"><img align="right" src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/linkedin-square-512.png" height="30" width="30"/></a>
